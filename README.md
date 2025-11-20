@@ -1,8 +1,5 @@
 # Project Jenkins
 
 
-Github ---- git clone --->  Docker ---- build and push ---> Docker Hub ------ deploy ---> EC2
+<img width="956" height="702" alt="image" src="https://github.com/user-attachments/assets/9a8a97b7-4a89-42e3-a662-3a4478d0f01b" />
 
-<-------------------------------------- JENKINS -------------------------------------------->
-
-<img width="639" height="229" alt="image" src="https://github.com/user-attachments/assets/5846b842-ac13-40eb-9b6f-d0c633197d5b" />
