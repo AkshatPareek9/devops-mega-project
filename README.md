@@ -1,7 +1,6 @@
-# Project Jenkins
+## DevOps Mega Project
 
-
-<img width="956" height="702" alt="image" src="https://github.com/user-attachments/assets/9a8a97b7-4a89-42e3-a662-3a4478d0f01b" />
+<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/9a8a97b7-4a89-42e3-a662-3a4478d0f01b" />
 
 ## Tech stack used in this project:
 
@@ -21,3 +20,7 @@
 14. AWS EKS (Kubernetes)
 15. Helm (Packaging)
 16. Prometheus and Grafana (Monitoring and Visualization)
+
+## Architecture of the Project
+<img width="1000" height="1000" alt="image" src="https://github.com/user-attachments/assets/b22305b3-3456-4073-9876-ac6adf794606" />
+
